@@ -1,0 +1,5 @@
+Stock Portfolio Report
+======================
+APPLE | Quantity: 7 | Price: $180 | Value: $1260
+
+Total Investment: $1260
